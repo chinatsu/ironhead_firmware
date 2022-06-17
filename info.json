@@ -1,0 +1,20 @@
+{
+    "manufacturer": "chinatsu",
+    "keyboard_name": "ironhead",
+    "maintainer": "chinatsu",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "command": false,
+        "console": false,
+        "extrakey": true,
+        "mousekey": false,
+        "nkro": true
+    },
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    }
+}
